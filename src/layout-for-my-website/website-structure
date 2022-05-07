@@ -1,0 +1,12 @@
+|- #header-name (fxc81 // Personal Website)
+|
+|- #social (My social media resourses)
+|
+|- #github (Marquee GitHub)
+|
+|- #aboutwrapper
+|-|- #about-me-header
+|-|- #hello-world
+|-|- #about-me-main
+|
+|- #donate-me
